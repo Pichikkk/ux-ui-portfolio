@@ -1,14 +1,20 @@
-<div style="max-width: 900px; margin: 0 auto 32px auto; padding: 24px 16px 0 16px;">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
-    <div>
-      <h1 style="margin: 0; font-size: 2.2em; font-weight: 700; color: #ffffff; letter-spacing: -0.5px;">Пичикова Валерия</h1>
-      <h3 style="margin: 6px 0 0 0; font-weight: 400; color: #8b949e; font-size: 0.95em; text-transform: uppercase; letter-spacing: 1.5px;">Продуктовый UX/UI Дизайнер</h3>
-    </div>
-    <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-      <a href="mailto:vpichikova@bk.ru" style="display: inline-flex; align-items: center; padding: 8px 16px; border: 1px solid #30363d; border-radius: 100px; text-decoration: none; color: #c9d1d9; font-size: 13px; font-weight: 500; background-color: transparent;">✉ Написать на почту</a>
-      <a href="https://t.me/Lerkins44" style="display: inline-flex; align-items: center; padding: 8px 16px; border: 1px solid #30363d; border-radius: 100px; text-decoration: none; color: #c9d1d9; font-size: 13px; font-weight: 500; background-color: transparent;">✈ Telegram</a>
-    </div>
-  </div>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <h1 align="left">Пичикова Валерия</h1>
+      <h3>Продуктовый UX/UI Дизайнер</h3>
+    </td>
+    <td align="right" valign="middle" width="50%">
+      <a href="mailto:vpichikova@bk.ru">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%87%D1%82%D1%83-30363d?style=for-the-badge&logo=maildotru">
+      </a>
+      <a href="https://t.me/Lerkins44">
+        <img src="https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=telegram
+        " alt="Telegram" />
+      </a>
+    </td>
+  </tr>
+</table>
 
   <div style="height: 1px; background-color: #30363d; margin: 24px 0;"></div>
 
@@ -50,7 +56,7 @@
 | **No-code** | Tilda, Webflow |
 | **Tools** | Git, Miro, Notion, FigJam |
 
- <a href="./assets/pdf/UI-Designer.pdf"><b>Скачать мое резюме в PDF</b></a>
+ <a href="./assets/pdf/UI-Designer.pdf"><b>Открыть мое резюме в PDF</b></a>
 
 ---
 
@@ -91,7 +97,7 @@
 - Типографика для мобильного интерфейса
 - Компоненты UI Kit для iOS и Android
 
-📄 <a href="./assets/pdf/nauryz.pdf"><b>Скачать кейс в PDF</b></a>
+📄 <a href="./assets/pdf/nauryz.pdf"><b>Открыть кейс в PDF</b></a>
 </details>
 
 <br>
@@ -130,7 +136,7 @@
 - Примеры правильного и неправильного использования
 - Шаблоны для различных носителей
 
-📄 <a href="./assets/pdf/logo.pdf"><b>Скачать гайдлайн в PDF</b></a>
+📄 <a href="./assets/pdf/logo.pdf"><b>Открыть гайдлайн в PDF</b></a>
 </details>
 
 <br>
@@ -273,7 +279,7 @@
 - 11 секций сайта от хеддера до футера
 - 30+ UI компонентов в дизайн-системе
 
-📄 <a href="./assets/pdf/fest.pdf"><b>Скачать кейс в PDF</b></a>
+📄 <a href="./assets/pdf/fest.pdf"><b>Открыть кейс в PDF</b></a>
 </details>
 
 <br>
@@ -308,7 +314,7 @@
 - Корзина и оформление заказа
 - Личный кабинет и история заказов
 
-📄 <a href="./assets/pdf/shop.pdf"><b>Скачать кейс в PDF</b></a>
+📄 <a href="./assets/pdf/shop.pdf"><b>Открыть кейс в PDF</b></a>
 </details>
 
 ---
@@ -317,8 +323,8 @@
 
 <div align="center" style="margin-top: 32px;">
   <p style="color: #8b949e; margin-bottom: 16px;">Открыта к новым проектам и full-time работе</p>
-  <a href="mailto:vpichikova@bk.ru" style="display: inline-block; padding: 12px 28px; border: 1.5px solid #8b949e; border-radius: 24px; text-decoration: none; color: #ffffff; font-size: 14px; font-weight: 500; letter-spacing: 0.5px; margin: 4px;">
-    ✉ Написать на почту
+  <a href="mailto:vpichikova@bk.ru">
+        <img alt="Static Badge" src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%87%D1%82%D1%83-30363d?style=for-the-badge&logo=maildotru">
   </a>
 </div>
 
